@@ -7,11 +7,12 @@
 }
 #nav {
     line-height:30px;
-    background-color:#ccc;
-    height:300px;
+  
     width:100px;
     float:left;
     padding:5px;
+      background-color:yellow;
+    height:300px;
 }
 #section {
     width:350px;
