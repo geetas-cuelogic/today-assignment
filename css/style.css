@@ -1,8 +1,9 @@
 #header {
+       background-color:yellow;
+    color:white;
         text-align:center;
     padding:5px;
-    background-color:orange;
-    color:white;
+ 
 
 }
 #nav {
